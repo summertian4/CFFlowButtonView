@@ -3,9 +3,9 @@
 # 描述
 CFFlowButtonView是一个对按钮实现流式布局的控件。自动适配屏幕。
 
-![竖屏显示](http://7xnrog.com1.z0.glb.clouddn.com/iOS-CFFlowButtonView-01.png)
+![竖屏显示](http://7xnrog.com1.z0.glb.clouddn.com/iOS-CFFlowButtonView-01.png-github)
 
-![横屏显示](http://7xnrog.com1.z0.glb.clouddn.com/iOS-CFFlowButtonView-02.png)
+![横屏显示](http://7xnrog.com1.z0.glb.clouddn.com/iOS-CFFlowButtonView-02.png-github)
 
 
 
