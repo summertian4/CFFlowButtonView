@@ -1,0 +1,22 @@
+//
+//  Prefix.pch
+//  FishWeibo
+//
+//  Created by 周凌宇 on 15/10/17.
+//  Copyright © 2015年 周凌宇. All rights reserved.
+//
+
+#ifndef Prefix_pch
+#define Prefix_pch
+
+#ifdef __OBJC__
+    #import "UIView+Extension.h"
+#endif
+
+#ifdef DEBUG
+#define CFLog(...) NSLog(__VA_ARGS__)
+#else
+#define CFLog(...)
+#endif
+
+#endif /* Prefix_pch */
