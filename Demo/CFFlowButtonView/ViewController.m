@@ -46,6 +46,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self addFlowButtonView];
+    
 }
 
 
